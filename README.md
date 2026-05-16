@@ -329,19 +329,29 @@ python -m pipeline.run_pipeline
 
 ## Executive Overview
 
-(Add screenshot here)
+<img width="1466" height="825" alt="image" src="https://github.com/user-attachments/assets/5e4e0f42-ce2e-4df4-a042-ad00817e5ab4" />
+
 
 ---
 
-## Inventory Analysis
+## Sales Analysis
 
-(Add screenshot here)
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/94c967f3-0eae-4e86-8ee5-0e4515799484" />
+
 
 ---
 
-## AI Forecasting Dashboard
+## Inventory Insights
 
-(Add screenshot here)
+<img width="1473" height="824" alt="image" src="https://github.com/user-attachments/assets/08cc961c-468d-4b01-9685-60a1271bc2e0" />
+
+
+---
+
+## ML Forecasting 
+
+<img width="1465" height="821" alt="image" src="https://github.com/user-attachments/assets/9537d6df-eac4-4c3d-be4c-319123007f98" />
+
 
 ---
 
